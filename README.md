@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel!
 
-<!--
-**DanielPitek04/DanielPitek04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
+I’m a student at **VŠB – Technical University of Ostrava** with a passion for **software development** and **technology**. I have experience as a **system administrator** for one of the largest **Minecraft servers**.
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- 💻 **Programming** – Always learning and experimenting with new tech.
+- 🌍 **Traveling** – Exploring new places and cultures.
+- 📖 **History** – Fascinated by how the past shapes the present.
+- 🛠 **Technology** – Excited about innovation and its practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- Discord: *Daniel P#1697*
+
+---
+
+🔍 **"Every day is a chance to learn something new!"**
+
+
