@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Daniel!
 
 ## 📚 About Me
-I’m a student at **VŠB – Technical University of Ostrava** with a passion for **software development** and **technology**. I have experience as a **system administrator** for one of the largest **Minecraft servers**.
+I’m a student at **VŠB – Technical University of Ostrava** with a passion for **software development** and **technology**. I have experience as a **administrator** for one of the largest **Minecraft servers**.
 
 ## 🚀 Interests
 - 💻 **Programming** – Always learning and experimenting with new tech.
